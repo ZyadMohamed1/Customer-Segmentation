@@ -61,7 +61,7 @@ Then we get Graph Representation for Gender With Spending Score and Income
 
 ## 3D Visualization For Clustering
 
-![3D](/images/3D Visualize.png)
+![three](/images/ThreeD.png)
 
 ## Conclusion
 
